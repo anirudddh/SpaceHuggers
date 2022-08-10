@@ -1,21 +1,4 @@
-/*
-    LittleJS - The Little JavaScript Game Engine That Can - By Frank Force 2021
 
-    Engine Features
-    - Engine and debug system are separate from game code
-    - Object oriented with base class engine object
-    - Engine handles core update loop
-    - Base class object handles update, physics, collision, rendering, etc
-    - Engine helper classes and functions like Vector2, Color, and Timer
-    - Super fast rendering system for tile sheets
-    - Sound effects audio with zzfx and music with zzfxm
-    - Input processing system with gamepad and touchscreen support
-    - Tile layer rendering and collision system
-    - Particle effect system
-    - Automatically calls appInit(), appUpdate(), appUpdatePost(), appRender(), appRenderPost()
-    - Debug tools and debug rendering system
-    - Call engineInit() to start it up!
-*/
 
 'use strict';
 
