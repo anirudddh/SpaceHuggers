@@ -198,7 +198,7 @@ engineInit(
     }
 
     mainContext.font = '.5in impact';
-    p > 0 && mainContext.fillText('Game by Aniruddha Shinde',mainCanvas.width/2, 210);
+    p > 0 && mainContext.fillText('Game by Aniruddha Rajendra Shinde',mainCanvas.width/2, 210);
 
     // check if any enemies left
     let enemiesCount = 0;
